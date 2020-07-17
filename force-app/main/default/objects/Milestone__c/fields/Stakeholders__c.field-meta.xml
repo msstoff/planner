@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Stakeholders__c</fullName>
+    <description>A list of names of individuals who are stakeholders tor the milestone</description>
+    <externalId>false</externalId>
+    <label>Stakeholders</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>
